@@ -1,0 +1,19 @@
+#additem{
+
+  position: relative;
+  right: -390px;
+  top: -25px;
+}
+
+ul{
+
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+
+div.icon{
+  float: right;
+  position: relative;
+  left: 55px;
+}
